@@ -6,4 +6,4 @@
  </br>
  
 ### 下载地址
-[Download](git@github.com:lijunyandev/ScanDemo.git)
+[Download](https://github.com/lijunyandev/ScanDemo)
